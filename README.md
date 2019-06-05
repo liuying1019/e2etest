@@ -12,3 +12,7 @@
 ![整体](https://raw.githubusercontent.com/liuying1019/e2etest/master/screenshoot/1.png)
 
 作业二：使用backstopJS UI框架比较do-app至少两个页面
+初始：
+![初始](https://raw.githubusercontent.com/liuying1019/e2etest/master/screenshoot/初始.png)
+改变：
+![改变](https://raw.githubusercontent.com/liuying1019/e2etest/master/screenshoot/改变之后.jpg)
