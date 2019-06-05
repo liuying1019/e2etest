@@ -8,5 +8,7 @@
 ![删除](https://raw.githubusercontent.com/liuying1019/e2etest/master/screenshoot/delete1.png)
 ![删除](https://raw.githubusercontent.com/liuying1019/e2etest/master/screenshoot/delete.png)
 整体：
+
 ![整体](https://raw.githubusercontent.com/liuying1019/e2etest/master/screenshoot/1.png)
+
 作业二：使用backstopJS UI框架比较do-app至少两个页面
