@@ -3,7 +3,7 @@
 增添：
 ![增添](https://raw.githubusercontent.com/liuying1019/e2etest/master/screenshoot/add.png)
 更改：
-![更改](https://raw.githubusercontent.com/liuying1019/e2etest/master/screenshoot/modify.png)
+![更改](https://raw.githubusercontent.com/liuying1019/e2etest/master/screenshoot/modify1.png)
 删除：
 ![删除](https://raw.githubusercontent.com/liuying1019/e2etest/master/screenshoot/delete1.png)
 ![删除](https://raw.githubusercontent.com/liuying1019/e2etest/master/screenshoot/delete.png)
